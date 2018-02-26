@@ -45,7 +45,7 @@ Join our developer chat on Slack if you would like to contribute to mitmproxy it
 Installation
 ------------
 
-The installation instructions are `here <http://docs.mitmproxy.org/en/stable/install.html>`__.
+The installation instructions are `here <installation_>`_.
 If you want to contribute changes, keep on reading.
 
 Contributing
@@ -182,6 +182,7 @@ with the following command:
     :target: https://pypi.python.org/pypi/mitmproxy
     :alt: Supported Python versions
 
+.. _installation: https://mitmproxy.org/docs/latest/overview-installation/
 .. _`advanced installation`: https://mitmproxy.org/docs/latest/overview-installation/#advanced-installation
 .. _virtualenv: https://virtualenv.pypa.io/
 .. _`pytest`: http://pytest.org/
